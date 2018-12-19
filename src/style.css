@@ -1,0 +1,23 @@
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+ 
+h1, p {
+  font-family: Lato;
+}
+
+button {
+  margin: 2px;
+}
+
+#info, #card-form{
+  margin: 12px;
+}
+
+#form-calculate{
+   margin: 16px;
+}
+
+#ButtonList{ 
+  padding: inherit;
+}
