@@ -21,3 +21,8 @@ button {
 #ButtonList{ 
   padding: inherit;
 }
+
+body {
+  max-width: 750px;
+  margin: 0 auto;
+}
